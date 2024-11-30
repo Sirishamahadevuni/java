@@ -1,4 +1,4 @@
-package DAY_3;
+package DAY_3.Strings;
 
 public class strings_indexing {
     public static void main(String[] args)

@@ -1,4 +1,4 @@
-package DAY_3;
+package DAY_3.Strings;
 
 import java.io.*;
 import java.util.*;
