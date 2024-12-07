@@ -1,4 +1,4 @@
-package DAY_3;
+package DAY_3.String_buffer;
 
 public class Stringbufferexample {
     public static void main(String[] args)

@@ -1,7 +1,7 @@
 package DAY_3;
 import java.util.Scanner;
 
-public class game {
+public class logic_not {
     public static void main(String[] args)
     {
         Scanner sc=new Scanner(System.in);
