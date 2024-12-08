@@ -12,6 +12,7 @@ public class array_2
         {
             System.out.println(numbers[i]);
         }
+        sc.close();
 
     }
     

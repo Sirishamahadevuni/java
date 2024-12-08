@@ -15,6 +15,7 @@ public class while_loop {
 
         }
         System.out.println("Hello " +name);
+        sc.close();
 
     }
     

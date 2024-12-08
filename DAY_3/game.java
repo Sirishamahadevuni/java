@@ -17,6 +17,7 @@ public class game {
             System.out.println("You are playing the game");
 
         }
+        sc.close();
 
     }
     

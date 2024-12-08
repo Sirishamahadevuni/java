@@ -17,6 +17,7 @@ public class logic_not {
             System.out.println("You are quiting the game");
 
         }
+        sc.close();
 
     }
     

@@ -27,6 +27,7 @@ public class nested_loops {
             System.out.println();
 
         }
+        sc.close();
 
 
 

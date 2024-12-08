@@ -1,7 +1,7 @@
 package DAY_3.Strings;
 
-import java.io.*;
-import java.util.*;
+//import java.io.*;
+//import java.util.*;
 
 public class stringmethods {
     public static void main(String[] args) {

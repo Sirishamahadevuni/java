@@ -11,6 +11,8 @@ public class stuck {
 
         }
         System.out.println("Hello " +name);
+        scanner.close();
     }
+   
     
 }

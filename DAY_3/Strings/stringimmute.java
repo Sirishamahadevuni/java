@@ -1,6 +1,5 @@
-package DAY_3;
-package Strings;
-import java.io.*;
+package DAY_3.Strings;
+//import java.io.*;
 public class stringimmute {
     public static void main(String[] args)
     {
