@@ -1,5 +1,4 @@
 package DAY_5.Arrays;
-import java.util.*;
 
 public class problem6 {
     public static void main(String[] args)
